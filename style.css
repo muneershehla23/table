@@ -1,0 +1,117 @@
+.logo{
+    width: 35px;
+}
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 10px 20px;
+}
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-family: "signifier";
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-family: "signifier";
+    margin-right: 80px;
+}
+.btn1{background-color: black;
+color: white;
+border: 1px solid white;
+padding: 4px 8px 4px 8px;
+font-size: 14px;
+}
+.head1{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading{
+    font-size: 8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    letter-spacing: -3px;
+}
+.para1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: -75px;
+    padding: 0 100px 50px 15px;   
+}
+.body{
+    padding: 0 260px 50px 100px;
+}
+.btns{
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   padding-right: 200px;   
+}
+.btn2{
+background-color: black;
+color: white;
+padding: 4px 6px 4px 6px;
+border: 1px solid white;
+}
+.btn3{
+    border-bottom: 1px solid white;
+    padding: 4px 6px 0px 6px;
+    font-size: 15px;
+    font-family:"signifier";
+    padding-bottom: none;
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.mg1{
+    width: 245px;
+}
+.mg2{
+    width: 245px;
+}
+.mg3{
+   width: 245px;
+}
+.mg4{
+    width: 245px;
+}
+.head2{
+    padding-bottom: 90px;
+    border-bottom: 1px solid white;
+}
+.head3{
+    border-left: 2px solid red ;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid gray;
+}
+.left{
+    white-space: nowrap;
+    font-size: 38px;
+    margin-top:-6rem ;
+    font-family: "signifier";
+}
+.ryt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    padding-left: 320px;
+    margin-top: -18px;
+padding-top: -60px;
+}
